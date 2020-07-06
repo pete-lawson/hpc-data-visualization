@@ -29,4 +29,4 @@ Current maintainers of this lesson are
 
 ## Authors
 
-[pete_lawson]: https://carpentries.org/instructors/#plawson
+[pete_lawson]: https://carpentries.org/instructors/#lawson_peter
