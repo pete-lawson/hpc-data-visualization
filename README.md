@@ -1,9 +1,8 @@
 # hpc-data-visualization
 
 An introduction to data visualization on a high-performance computing (HPC) environment. Please see <https://pete-lawson.github.io/hpc-data-visualization/> for a rendered version of this material. 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
-This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons.
+[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
 ## Contributing
 
